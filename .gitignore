@@ -86,3 +86,6 @@ poetry.lock
 __pypackages__/
 .ropeproject/
 .mypy_cache/
+
+# IA
+*.pth
